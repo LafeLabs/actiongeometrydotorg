@@ -13,7 +13,7 @@ SELF REPLICATING GEOMETRY IN TRASH!
 
 ![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotorg/main/trashmagic/goldenset.png)
 
-![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotorg/main/trashmagic/squareset.png)
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotorgc/main/trashmagic/squareset.png)
 
 
 
