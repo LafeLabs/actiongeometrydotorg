@@ -3,17 +3,17 @@
 SELF REPLICATING GEOMETRY IN TRASH!
 
 
-![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/qrcodeset.png)
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotorg/main/trashmagic/qrcodeset.png)
 
-![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/replicatorset.png)
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotorg/main/trashmagic/replicatorset.png)
 
-![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/shapeset.png)
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotorg/main/trashmagic/shapeset.png)
 
-![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/sixfoldset.png)
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotorg/main/trashmagic/sixfoldset.png)
 
-![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/goldenset.png)
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotorg/main/trashmagic/goldenset.png)
 
-![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/squareset.png)
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotorg/main/trashmagic/squareset.png)
 
 
 
